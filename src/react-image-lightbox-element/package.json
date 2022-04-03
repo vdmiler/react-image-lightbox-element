@@ -1,6 +1,6 @@
 {
   "name": "react-image-lightbox-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple lightbox component for displaying images in a React project.",
   "main": "dist/index.cjs.js",
   "scripts": {
