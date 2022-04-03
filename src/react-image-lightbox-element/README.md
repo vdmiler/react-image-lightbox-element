@@ -2,6 +2,8 @@
 
 > A simple lightbox component for displaying images in a React project.
 
+[DEMO](https://vdmiler.github.io/react-image-lightbox-element/)
+
 ## Usage
 
 ```js
