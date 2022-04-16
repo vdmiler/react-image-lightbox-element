@@ -72,4 +72,9 @@
   .gallery-arrow-right {
     justify-content: center;
   }
+  .gallery-image-enlarge {
+    max-width: 72%;
+    max-height: 65%;
+    margin: 30px auto;
+  }
 }
